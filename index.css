@@ -1,0 +1,83 @@
+.nav-bar{
+    background-color: rgb(26, 44, 41)
+}
+ p{
+    color: white;
+    padding: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:x-large;
+    font-weight: bold;
+    
+ }  
+ #card{
+    height: 600px;
+    width:300px;
+    margin: 100px;
+    background-color: gray;
+    margin-top:0px;
+    margin-left: 100px;
+    border-radius: 15px;
+ }
+ #box1{
+    height: 150px;
+    width: 15%;
+    background-color: gray;
+    overflow: hidden;
+    float:right;
+    margin-right: 100px;
+    margin-top: 200px;
+    border-radius: 15px;
+
+ }
+ #box2{
+    height: 150px;
+    width: 15%;
+    background-color: gray;
+    overflow: hidden;
+    float:right;
+    margin-right: 100px;
+    margin-top: 200px;
+    border-radius: 15px;
+
+ }
+ #box3{
+    height: 150px;
+    width: 15%;
+    background-color: gray;
+    overflow: hidden;
+    float:right;
+    margin-right: 100px;
+    margin-top: 200px;
+    border-radius: 15px;
+
+ }
+ #box4{
+    height: 200px;
+    width: 60%;
+    background-color: gray;
+    overflow: hidden;
+    float: right;
+    margin-right: 80px;
+    margin-top: 100px;
+    border-radius: 15px;
+
+ }
+ #box5{
+    height: 50px;
+    width: 600px;
+    background-color: gray;
+    margin-left: 50%;
+    margin-top: 75px;
+    border-radius: 15px;
+ }
+ .logo{
+    position: absolute;
+    height: auto;
+    width: 60px;
+    left: 0px;
+    top:20px
+    
+ }
+ body{
+    background-color: beige;
+ }
